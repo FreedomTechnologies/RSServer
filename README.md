@@ -1,3 +1,7 @@
+# RSServer
+(Request &amp; Schedule Server = RSServer) This is a server meant to handle http request, web-hooks, ect. as well as trigger http requests, and run local scripts on response or schedules.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FreedomTechnologies/RSServer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
